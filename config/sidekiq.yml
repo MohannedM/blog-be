@@ -1,0 +1,3 @@
+delete_post:
+    every: 1m   # Runs once per minute
+    class: ExampleJob
